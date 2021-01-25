@@ -34,4 +34,28 @@ h1 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 33px; fo
     
     ul { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 19px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 36.3px; } h3 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
 
+          <style>
+    body {
+      background-color: #c3a198;
+    }
+    
+    h1 {
+      color: #9a6a6a;
+    }
+    
+      ul {
+  background-color: #ecd8d1;
+}
+
+li a {
+  color: #9a6a6a;
+}
+
+li a:hover {
+  background-color: #fff2ef;    
+  
+  
+  
+          
+</style>
    
