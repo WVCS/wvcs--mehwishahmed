@@ -29,6 +29,15 @@ li a {
 
 li a:hover {
 }
+
+    <ul>
+  <li><a href="index.html">home</a></li>
+  <li><a href="apps.html">apps</a></li>
+  <li><a href="art.html"> art</a></li>
+  <li><a href="scratch.html">scratch game</a></li>
+  <li><a href="https://www.code.org"> code.org</a></li>
+  
+</ul>
       
 h1 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 33px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 36.3px; } h3 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
     
@@ -57,12 +66,4 @@ li a:hover {
           
 </style>
     
-    <ul>
-  <li><a href="index.html">home</a></li>
-  <li><a href="apps.html">apps</a></li>
-  <li><a href="art.html"> art</a></li>
-  <li><a href="scratch.html">scratch game</a></li>
-  <li><a href="https://www.code.org"> code.org</a></li>
-  
-</ul>
    
